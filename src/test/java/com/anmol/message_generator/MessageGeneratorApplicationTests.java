@@ -8,6 +8,7 @@ class MessageGeneratorApplicationTests {
 
 	@Test
 	void contextLoads() {
+		  
 	}
 
 }
